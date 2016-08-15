@@ -684,14 +684,3 @@ pre > code {
        line-height: 40px;
        text-align: center;
 }
-
-@media print {
-       .student {
-              position: relative;
-              left: 60px;
-       }
-       .title {
-              position: relative;
-              left: 30px;
-       }
-}
