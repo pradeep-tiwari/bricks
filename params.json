@@ -1,0 +1,6 @@
+{
+  "name": "Bricks-css",
+  "tagline": "Superfast, responsive, media-queries based css library for rapid prototyping of websites.",
+  "body": "# bricks-css\r\nSuperfast, responsive, media-queries based css library for rapid prototyping of websites\r\n\r\n### An awesome library\r\nHighly inspired from GetSkeleton CSS, Bricks is a lightweight, very easy-to-learn, flexible, and developer friendly css library. You can easily utilize font-awesome or ionicons library to create rich HTML5 interfaces in no time.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
